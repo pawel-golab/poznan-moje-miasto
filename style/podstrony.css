@@ -1,0 +1,29 @@
+* {
+    color: #091540;
+}
+
+h2 {
+    text-align: center;
+}
+
+img {
+    height: 300px;
+}
+
+#obraz_lewy {
+    float: left;
+    margin-right: 10px;
+}
+#obraz_prawy {
+    float: right;
+    margin-left: 10px;
+}
+
+#galeria {
+    clear: both;
+    text-align: center;
+}
+
+hr {
+    border: 1px solid #091540;
+}
